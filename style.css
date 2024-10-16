@@ -1,0 +1,13 @@
+.diagonal-bg {
+    background: linear-gradient(to bottom right, #35066b 50%, #D3D3D3 50%);
+    background-size: 150% 170%;
+    background-position: center;
+
+}
+
+h2 {
+    font-family: "Agdasima", sans-serif;
+}
+.service-text {
+    font-family: "Agdasima", sans-serif;
+}
